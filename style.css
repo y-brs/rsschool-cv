@@ -625,6 +625,7 @@ li {
 
 .footer__copyright-link:hover svg path {
   fill: #333;
+  transition: fill 0.3s;
 }
 
 .footer__logo-subtitle {
